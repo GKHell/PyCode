@@ -6,7 +6,7 @@
 	3. complex [( numeric + magenary) : 10+6j	]	
 '''
 num = 12345678901234567890.8
-#print(type(num),num)
+print(type(num),num)
 
 num = 10+4j+3-2j*2
 print(num,type(num))
