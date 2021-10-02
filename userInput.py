@@ -1,5 +1,6 @@
 # input
 # variable = datatype(input(msg))
+print("HELLO WORLD.........")
 name  = input("Enter name : ")
 
 num1 = int(input("Enter num1 : "))
